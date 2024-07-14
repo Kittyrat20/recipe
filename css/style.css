@@ -1,6 +1,7 @@
 * {
-  color: #ebebeb;
-  font-family: Comfortaa, monospace;
+    color: #ebebeb;
+    font-family: Comfortaa, monospace;
+  }
   a:link {
     color: #0fc4f0;
   }
@@ -12,7 +13,6 @@
   }
   a:active {
     color: #03fc93;
-  }
   }
 
 body {
@@ -101,4 +101,8 @@ strong {
 
 .inputtext{
   color: #3e3e3e;
+}
+
+.rate{
+    /*placeholder*/
 }
