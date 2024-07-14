@@ -98,3 +98,7 @@ strong {
   grid-column: 2;
   grid-row: 2;
 }
+
+.inputtext{
+  color: #3e3e3e;
+}
